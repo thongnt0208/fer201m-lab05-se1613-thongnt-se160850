@@ -1,4 +1,4 @@
-## A respository for Lab04 in FER201m subject which is about ReactJS at FPT University.
+## A respository for Lab05 in FER201m subject which is about ReactJS at FPT University.
 ### Discription:
 This is a project to practice using SCSS code to the React application.
 
