@@ -2,10 +2,10 @@
 ### Discription:
 This is a project to practice using SCSS code to the React application.
 
-•	Write Scss code using many of the features of Scss
-•	Automatically convert the Scss code into CSS
-•	All the scss files put in a folder SCSS which is the subfolder of src.
-•	Build a information page to introduce yourself.
+•	Write Scss code using many of the features of Scss\
+•	Automatically convert the Scss code into CSS\
+•	All the scss files put in a folder SCSS which is the subfolder of src.\
+•	Build a information page to introduce yourself.\
 •	The UI looks attractive.
 
 ------------------------------
