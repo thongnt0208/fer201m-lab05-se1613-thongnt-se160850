@@ -1,0 +1,40 @@
+// contact
+@import './variables';
+
+
+.fadein {
+    opacity: 0;
+    -moz-transition: opacity 1.5s;
+    -webkit-transition: opacity 1.5s;
+    -o-transition: opacity 1.5s;
+    transition: opacity 1.5s;
+}
+
+.loaded .fadein {
+    opacity: 1;
+}
+.contact-container{
+    position: relative;
+    top: $spacing;
+    margin: 0 auto;
+    max-width: 1080px;
+    // border: 1px solid black;
+
+    a {
+        display: inline-block;    
+        width: 300px;
+        text-decoration: none;
+        color: white;
+
+        .card {
+            margin: 1rem;
+            padding: 1rem;
+        }
+    }
+
+    .back-button{
+        width: 100px;
+        background-color: $green;
+        margin-bottom: $spacing/2;
+    }
+}
